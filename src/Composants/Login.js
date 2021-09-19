@@ -423,7 +423,7 @@ const handleMouseDownPassword = (event) => {
                   fullWidth
                   variant="contained"
                   className={classes.submit}
-                  
+                
                 >
                   Sign Up
                 </Button>
